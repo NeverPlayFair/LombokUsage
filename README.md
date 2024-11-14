@@ -1,7 +1,5 @@
 <h2>LombokUsage</h2>
 
-This project demonstrates the use of the Lombok library in Java to reduce boilerplate code. Lombok significantly simplifies code maintenance and readability, making it an essential library.
-
 ### Lombok Installation
 
 1. **Add Lombok to the Project:**
