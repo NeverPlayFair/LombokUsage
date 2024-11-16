@@ -13,4 +13,5 @@
    - <b>This step is very important for IntelliJ IDEA to recognize and process Lombok annotations!!!<b>
 
 3. **Output from IntelliJ console**
-![image](https://github.com/user-attachments/assets/aa3134ea-1ab3-4f48-b592-dcdade2f3b6a)
+![image](https://github.com/user-attachments/assets/b6e9d3e0-738b-4c02-8b3a-c614f063adb4)
+
