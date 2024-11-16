@@ -4,7 +4,7 @@ import lombok.EqualsAndHashCode;
 
 @Data
 @AllArgsConstructor
-@EqualsAndHashCode(of = {"model", "brand"}) 
+@EqualsAndHashCode(of = {"brand"})
 public class CarWithLombok {
     private String model;
     private String brand;
